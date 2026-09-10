@@ -102,11 +102,8 @@ The notebook executes:
 - Package versions are pinned in `requirements.txt`.
 - The notebook runs top-to-bottom without any manual steps.
 
-## 8. Group Members
 
-- (fill in names and roles before submission)
-
-## 9. Academic Integrity
+## 8. Academic Integrity
 
 All code, analysis, and interpretation are the group's own work.
 External sources (documentation, dataset origin) are cited in the report.
